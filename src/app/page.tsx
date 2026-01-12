@@ -6,7 +6,7 @@ import ImpactGallery from "../components/ImpactGallery";
 import Donate from "../components/Donate";
 import ContactForm from "../components/ContactForm";
 import Footer from "../components/Footer";
-// import DonateForm from "../components/DonateForm";
+import ApplicationForm from "../components/ApplicationForm";
 
 
 export default function Home() {
@@ -18,7 +18,7 @@ export default function Home() {
       <Programs />
       <ImpactGallery />
       <Donate />
-      {/* <DonateForm /> */}
+      {/* <ApplicationForm /> */}
       <ContactForm />
       <Footer />
 
